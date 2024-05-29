@@ -2,4 +2,6 @@
 
 Mi primer repositorio
 
-Un vino, una compu y sambuchito
+Me gustan: Un vino, una compu y sambuchito
+
+No me gustan: Mucho frío o mucho calor, que no haya hielo pa'l fernet
